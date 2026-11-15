@@ -31,14 +31,14 @@ jobs:
           STRONG_PASSWORD: ${{ secrets.STRONG_PASSWORD }}
         run: python build_epg.py
 
-      - name: Publish updated guide
+      - name: Publish updated guide and mapping
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add combined.xml.gz
+          git add combined.xml.gz strong_epg_match_report.csv strong_epg_map.json
           if git diff --cached --quiet; then
-            echo "Guide unchanged; no commit needed."
+            echo "Guide and mapping unchanged; no commit needed."
           else
-            git commit -m "Update combined XMLTV guide"
+            git commit -m "Update combined XMLTV guide and Strong EPG map"
             git push
           fi
