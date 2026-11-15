@@ -1,0 +1,1615 @@
+{
+  "version": 1,
+  "mappings": {
+    "60:1573405": {
+      "epg_id": "strong.ph.60.1573405",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "#### PHILIPINES ᴴᴰ/ᴿᴬᵂ ####"
+    },
+    "60:1856326": {
+      "epg_id": "strong.ph.60.1856326",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPAMILYA ᴴᴰ"
+    },
+    "60:1856356": {
+      "epg_id": "strong.ph.60.1856356",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PBA RUSH ᴴᴰ"
+    },
+    "60:1856429": {
+      "epg_id": "strong.ph.60.1856429",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TV5 ᴴᴰ"
+    },
+    "60:1856385": {
+      "epg_id": "strong.ph.60.1856385",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: RPTV ᴴᴰ"
+    },
+    "60:1856337": {
+      "epg_id": "strong.ph.60.1856337",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANC ᴴᴰ"
+    },
+    "60:1548701": {
+      "epg_id": "strong.ph.60.1548701",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BILYONARYO CHANNEL"
+    },
+    "60:1856328": {
+      "epg_id": "strong.ph.60.1856328",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE PH ᴴᴰ"
+    },
+    "60:1857934": {
+      "epg_id": "strong.ph.60.1857934",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE NEWS ᴴᴰ"
+    },
+    "60:1856398": {
+      "epg_id": "strong.ph.60.1856398",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE SPORTS ᴴᴰ"
+    },
+    "60:1856323": {
+      "epg_id": "strong.ph.60.1856323",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE SPORTS PLUS (HYPER ᴴᴰ)"
+    },
+    "60:1856441": {
+      "epg_id": "strong.ph.60.1856441",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SPOTV ᴴᴰ"
+    },
+    "60:1856366": {
+      "epg_id": "strong.ph.60.1856366",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PREMIER SPORTS ᴴᴰ"
+    },
+    "60:1856426": {
+      "epg_id": "strong.ph.60.1856426",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CNN PHILIPPINES ᴴᴰ"
+    },
+    "60:1856432": {
+      "epg_id": "strong.ph.60.1856432",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CNN ᴴᴰ"
+    },
+    "60:1856404": {
+      "epg_id": "strong.ph.60.1856404",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMA ONE ᴴᴰ"
+    },
+    "60:2047395": {
+      "epg_id": "strong.ph.60.2047395",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMA ONE GLOBAL ᴴᴰ"
+    },
+    "60:2047398": {
+      "epg_id": "strong.ph.60.2047398",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MINDANOW NETWORK ᴴᴰ"
+    },
+    "60:2047397": {
+      "epg_id": "strong.ph.60.2047397",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SOLARFLIX"
+    },
+    "60:2047396": {
+      "epg_id": "strong.ph.60.2047396",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: RJTV 29"
+    },
+    "60:1856427": {
+      "epg_id": "strong.ph.60.1856427",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIVING ASIA CHANNEL ᴴᴰ"
+    },
+    "60:1856369": {
+      "epg_id": "strong.ph.60.1856369",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HBO ᴴᴰ"
+    },
+    "60:1739605": {
+      "epg_id": "strong.ph.60.1739605",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIVE 1"
+    },
+    "60:1739606": {
+      "epg_id": "strong.ph.60.1739606",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIVE 2"
+    },
+    "60:1739607": {
+      "epg_id": "strong.ph.60.1739607",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIVE 3"
+    },
+    "60:1739608": {
+      "epg_id": "strong.ph.60.1739608",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIVE 4"
+    },
+    "60:1548702": {
+      "epg_id": "strong.ph.60.1548702",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ABANTE RADYO"
+    },
+    "60:1548700": {
+      "epg_id": "strong.ph.60.1548700",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GTV"
+    },
+    "60:1548699": {
+      "epg_id": "strong.ph.60.1548699",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DZRH"
+    },
+    "60:1548698": {
+      "epg_id": "strong.ph.60.1548698",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: UAAP VARSITY CHANNEL"
+    },
+    "60:1548697": {
+      "epg_id": "strong.ph.60.1548697",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: IBC 13"
+    },
+    "60:1548696": {
+      "epg_id": "strong.ph.60.1548696",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SPOTV 2"
+    },
+    "60:1548695": {
+      "epg_id": "strong.ph.60.1548695",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PREMIER SPORTS 2"
+    },
+    "60:1548694": {
+      "epg_id": "strong.ph.60.1548694",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NBA TV PH"
+    },
+    "60:1548693": {
+      "epg_id": "strong.ph.60.1548693",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: METRO CHANNEL"
+    },
+    "60:1548692": {
+      "epg_id": "strong.ph.60.1548692",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: UNTV"
+    },
+    "60:1548691": {
+      "epg_id": "strong.ph.60.1548691",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: tVn MOVIES PINOY"
+    },
+    "60:1548690": {
+      "epg_id": "strong.ph.60.1548690",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: tVn PREMIUM"
+    },
+    "60:1548689": {
+      "epg_id": "strong.ph.60.1548689",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TMC"
+    },
+    "60:1548688": {
+      "epg_id": "strong.ph.60.1548688",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: Premier Football"
+    },
+    "60:1548687": {
+      "epg_id": "strong.ph.60.1548687",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HGTV"
+    },
+    "60:1548686": {
+      "epg_id": "strong.ph.60.1548686",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SOLAR SPORTS"
+    },
+    "60:440670": {
+      "epg_id": "strong.ph.60.440670",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NOYPI MOVIES"
+    },
+    "60:440667": {
+      "epg_id": "strong.ph.60.440667",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH:  JEEPNEY TV"
+    },
+    "60:440660": {
+      "epg_id": "strong.ph.60.440660",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH:   SINE MANILA"
+    },
+    "60:440653": {
+      "epg_id": "strong.ph.60.440653",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO GLOBAL"
+    },
+    "60:440647": {
+      "epg_id": "strong.ph.60.440647",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPAMILYA"
+    },
+    "60:440597": {
+      "epg_id": "strong.ph.60.440597",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH:  TELERADYO"
+    },
+    "60:440577": {
+      "epg_id": "strong.ph.60.440577",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: INC TV"
+    },
+    "60:440574": {
+      "epg_id": "strong.ph.60.440574",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BUKO"
+    },
+    "60:440566": {
+      "epg_id": "strong.ph.60.440566",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH:  ALL TV"
+    },
+    "60:440544": {
+      "epg_id": "strong.ph.60.440544",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NET 25"
+    },
+    "60:440538": {
+      "epg_id": "strong.ph.60.440538",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MYX"
+    },
+    "60:440530": {
+      "epg_id": "strong.ph.60.440530",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: VIVA CINEMA"
+    },
+    "60:440523": {
+      "epg_id": "strong.ph.60.440523",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH:  GMA 7"
+    },
+    "60:440519": {
+      "epg_id": "strong.ph.60.440519",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PBO"
+    },
+    "60:440514": {
+      "epg_id": "strong.ph.60.440514",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SMNI"
+    },
+    "60:440513": {
+      "epg_id": "strong.ph.60.440513",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NEWS ASIA"
+    },
+    "60:440509": {
+      "epg_id": "strong.ph.60.440509",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPATID CHANNEL"
+    },
+    "60:1856272": {
+      "epg_id": "strong.ph.60.1856272",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: A2Z ᴴᴰ"
+    },
+    "60:1856357": {
+      "epg_id": "strong.ph.60.1856357",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: A2Z ᴴᴰ"
+    },
+    "60:1856353": {
+      "epg_id": "strong.ph.60.1856353",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ABC AUSTRAILIA ᴴᴰ"
+    },
+    "60:1856315": {
+      "epg_id": "strong.ph.60.1856315",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: AL JAZEERA ᴴᴰ"
+    },
+    "60:1856411": {
+      "epg_id": "strong.ph.60.1856411",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: AL JAZEERA ᴴᴰ"
+    },
+    "60:1856408": {
+      "epg_id": "strong.ph.60.1856408",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANC GLOBAL ᴴᴰ"
+    },
+    "60:1856313": {
+      "epg_id": "strong.ph.60.1856313",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANIMAL PLANET ᴴᴰ"
+    },
+    "60:1856358": {
+      "epg_id": "strong.ph.60.1856358",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANIMAL PLANET ᴴᴰ"
+    },
+    "60:1856292": {
+      "epg_id": "strong.ph.60.1856292",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANIMAX ᴴᴰ"
+    },
+    "60:1856391": {
+      "epg_id": "strong.ph.60.1856391",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANIMAX ᴴᴰ"
+    },
+    "60:1856298": {
+      "epg_id": "strong.ph.60.1856298",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ANIPLUS ᴴᴰ"
+    },
+    "60:1856304": {
+      "epg_id": "strong.ph.60.1856304",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ARIRANG TV WORLD ᴴᴰ"
+    },
+    "60:1856412": {
+      "epg_id": "strong.ph.60.1856412",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ARIRANG TV WORLD ᴴᴰ"
+    },
+    "60:1856407": {
+      "epg_id": "strong.ph.60.1856407",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ASIAN FOOD CHANNEL ᴴᴰ"
+    },
+    "60:1856293": {
+      "epg_id": "strong.ph.60.1856293",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ASIAN FOOD ᴴᴰ"
+    },
+    "60:1856291": {
+      "epg_id": "strong.ph.60.1856291",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: AXN ᴴᴰ"
+    },
+    "60:1856352": {
+      "epg_id": "strong.ph.60.1856352",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: AXN ᴴᴰ"
+    },
+    "60:1856312": {
+      "epg_id": "strong.ph.60.1856312",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BBC EARTH ᴴᴰ"
+    },
+    "60:1856413": {
+      "epg_id": "strong.ph.60.1856413",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BBC EARTH ᴴᴰ"
+    },
+    "60:1856311": {
+      "epg_id": "strong.ph.60.1856311",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BBC NEWS ᴴᴰ"
+    },
+    "60:1856414": {
+      "epg_id": "strong.ph.60.1856414",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BBC WORLD NEWS ᴴᴰ"
+    },
+    "60:1856325": {
+      "epg_id": "strong.ph.60.1856325",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BEIN SPORTS 1 ᴴᴰ"
+    },
+    "60:1856324": {
+      "epg_id": "strong.ph.60.1856324",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BEIN SPORTS 2 ᴴᴰ"
+    },
+    "60:1856378": {
+      "epg_id": "strong.ph.60.1856378",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BLOOMBERG ᴴᴰ"
+    },
+    "60:1856336": {
+      "epg_id": "strong.ph.60.1856336",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BUKO CHANNEL ᴴᴰ"
+    },
+    "60:1856415": {
+      "epg_id": "strong.ph.60.1856415",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BUKO CHANNEL ᴴᴰ"
+    },
+    "60:1856406": {
+      "epg_id": "strong.ph.60.1856406",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CARTOON NETWORK ᴴᴰ"
+    },
+    "60:1856310": {
+      "epg_id": "strong.ph.60.1856310",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CCTV 4 ᴴᴰ"
+    },
+    "60:1856419": {
+      "epg_id": "strong.ph.60.1856419",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CCTV 4 ᴴᴰ"
+    },
+    "60:1856367": {
+      "epg_id": "strong.ph.60.1856367",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CELESTIAL MOVIE PINOY ᴴᴰ"
+    },
+    "60:1856424": {
+      "epg_id": "strong.ph.60.1856424",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CGTN ᴴᴰ"
+    },
+    "60:1856400": {
+      "epg_id": "strong.ph.60.1856400",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CHANNEL NEWS ASIA (CNA) ᴴᴰ"
+    },
+    "60:1856332": {
+      "epg_id": "strong.ph.60.1856332",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMA 1 ᴴᴰ"
+    },
+    "60:1856333": {
+      "epg_id": "strong.ph.60.1856333",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMA ONE GLOBAL ᴴᴰ"
+    },
+    "60:1856306": {
+      "epg_id": "strong.ph.60.1856306",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMAX ᴴᴰ"
+    },
+    "60:1856386": {
+      "epg_id": "strong.ph.60.1856386",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMAX ᴴᴰ"
+    },
+    "60:1856334": {
+      "epg_id": "strong.ph.60.1856334",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO EMEA ᴴᴰ"
+    },
+    "60:1856401": {
+      "epg_id": "strong.ph.60.1856401",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO NOLA ᴴᴰ"
+    },
+    "60:1856335": {
+      "epg_id": "strong.ph.60.1856335",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO ᴴᴰ"
+    },
+    "60:1856402": {
+      "epg_id": "strong.ph.60.1856402",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO ᴴᴰ"
+    },
+    "60:1856403": {
+      "epg_id": "strong.ph.60.1856403",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CINEMO ᴴᴰ"
+    },
+    "60:1856360": {
+      "epg_id": "strong.ph.60.1856360",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: CRIME & INVESTIGATION ᴴᴰ"
+    },
+    "60:1856302": {
+      "epg_id": "strong.ph.60.1856302",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DEPED ᴴᴰ"
+    },
+    "60:1856420": {
+      "epg_id": "strong.ph.60.1856420",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DEPED ᴴᴰ"
+    },
+    "60:1856287": {
+      "epg_id": "strong.ph.60.1856287",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DISCOVERY ASIA ᴴᴰ"
+    },
+    "60:1856364": {
+      "epg_id": "strong.ph.60.1856364",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DISCOVERY ASIA ᴴᴰ"
+    },
+    "60:1856399": {
+      "epg_id": "strong.ph.60.1856399",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DISCOVERY CHANNEL ᴴᴰ"
+    },
+    "60:1856288": {
+      "epg_id": "strong.ph.60.1856288",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DISCOVERY ᴴᴰ"
+    },
+    "60:1856437": {
+      "epg_id": "strong.ph.60.1856437",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DREAMWORKS (TAGALIZED) ᴴᴰ"
+    },
+    "60:1856301": {
+      "epg_id": "strong.ph.60.1856301",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DREAMWORKS ᴴᴰ"
+    },
+    "60:1856361": {
+      "epg_id": "strong.ph.60.1856361",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: DREAMWORKS ᴴᴰ"
+    },
+    "60:1856282": {
+      "epg_id": "strong.ph.60.1856282",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: FASHION TV ᴴᴰ"
+    },
+    "60:1856421": {
+      "epg_id": "strong.ph.60.1856421",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: FASHION TV ᴴᴰ"
+    },
+    "60:1856371": {
+      "epg_id": "strong.ph.60.1856371",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: FOOD NETWORK ᴴᴰ"
+    },
+    "60:1856433": {
+      "epg_id": "strong.ph.60.1856433",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: FRANCE 24 ᴴᴰ"
+    },
+    "60:1856373": {
+      "epg_id": "strong.ph.60.1856373",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GLOBAL TREKKER ᴴᴰ"
+    },
+    "60:1856344": {
+      "epg_id": "strong.ph.60.1856344",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA LIFE TV (NA) ᴴᴰ"
+    },
+    "60:1856349": {
+      "epg_id": "strong.ph.60.1856349",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA LIFE TV ᴴᴰ"
+    },
+    "60:1856443": {
+      "epg_id": "strong.ph.60.1856443",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA LIFE TV ᴴᴰ"
+    },
+    "60:1856396": {
+      "epg_id": "strong.ph.60.1856396",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA NEWS TV ᴴᴰ"
+    },
+    "60:1856444": {
+      "epg_id": "strong.ph.60.1856444",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA NEWS TV ᴴᴰ"
+    },
+    "60:1856445": {
+      "epg_id": "strong.ph.60.1856445",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA PINOY (NA) ᴴᴰ"
+    },
+    "60:1856395": {
+      "epg_id": "strong.ph.60.1856395",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA PINOY TV ᴴᴰ"
+    },
+    "60:1856446": {
+      "epg_id": "strong.ph.60.1856446",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA PINOY ᴴᴰ"
+    },
+    "60:1856436": {
+      "epg_id": "strong.ph.60.1856436",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HBO FAMILY ᴴᴰ"
+    },
+    "60:1856435": {
+      "epg_id": "strong.ph.60.1856435",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HBO HITS ᴴᴰ"
+    },
+    "60:1856434": {
+      "epg_id": "strong.ph.60.1856434",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HBO SIGNATURE ᴴᴰ"
+    },
+    "60:1856397": {
+      "epg_id": "strong.ph.60.1856397",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HGTV ᴴᴰ"
+    },
+    "60:1856422": {
+      "epg_id": "strong.ph.60.1856422",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HISTORY ᴴᴰ"
+    },
+    "60:1856286": {
+      "epg_id": "strong.ph.60.1856286",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HITS MOVIES ᴴᴰ"
+    },
+    "60:1856394": {
+      "epg_id": "strong.ph.60.1856394",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HITS MOVIES ᴴᴰ"
+    },
+    "60:1856370": {
+      "epg_id": "strong.ph.60.1856370",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HITS NOW ᴴᴰ"
+    },
+    "60:1856309": {
+      "epg_id": "strong.ph.60.1856309",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HITS ᴴᴰ"
+    },
+    "60:1856362": {
+      "epg_id": "strong.ph.60.1856362",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HITS ᴴᴰ"
+    },
+    "60:1857912": {
+      "epg_id": "strong.ph.60.1857912",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: HOPE TV ᴴᴰ"
+    },
+    "60:1856350": {
+      "epg_id": "strong.ph.60.1856350",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: IBC 13 ᴴᴰ"
+    },
+    "60:1856439": {
+      "epg_id": "strong.ph.60.1856439",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: JEEPNEY TV ᴴᴰ"
+    },
+    "60:1856355": {
+      "epg_id": "strong.ph.60.1856355",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPATID CHANNEL ᴴᴰ"
+    },
+    "60:1856339": {
+      "epg_id": "strong.ph.60.1856339",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPATID TV5 ᴴᴰ"
+    },
+    "60:1856285": {
+      "epg_id": "strong.ph.60.1856285",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KBS WORLD ᴴᴰ"
+    },
+    "60:1856393": {
+      "epg_id": "strong.ph.60.1856393",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KBS WORLD ᴴᴰ"
+    },
+    "60:1856299": {
+      "epg_id": "strong.ph.60.1856299",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KIX ᴴᴰ"
+    },
+    "60:1856363": {
+      "epg_id": "strong.ph.60.1856363",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KIX ᴴᴰ"
+    },
+    "60:1856284": {
+      "epg_id": "strong.ph.60.1856284",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KNOWLEDGE CHANNEL ᴴᴰ"
+    },
+    "60:1856348": {
+      "epg_id": "strong.ph.60.1856348",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KNOWLEDGE CHANNEL ᴴᴰ"
+    },
+    "60:1856392": {
+      "epg_id": "strong.ph.60.1856392",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KNOWLEDGE CHANNEL ᴴᴰ"
+    },
+    "60:1856438": {
+      "epg_id": "strong.ph.60.1856438",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIFETIME ᴴᴰ"
+    },
+    "60:1856390": {
+      "epg_id": "strong.ph.60.1856390",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LIGHT ᴴᴰ"
+    },
+    "60:1856314": {
+      "epg_id": "strong.ph.60.1856314",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LOTUS MACAU ᴴᴰ"
+    },
+    "60:1856359": {
+      "epg_id": "strong.ph.60.1856359",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: LOTUS MACAU ᴴᴰ"
+    },
+    "60:1856297": {
+      "epg_id": "strong.ph.60.1856297",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MOONBUG KIDS SD"
+    },
+    "60:1856423": {
+      "epg_id": "strong.ph.60.1856423",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MOONBUG KIDS SD"
+    },
+    "60:1856347": {
+      "epg_id": "strong.ph.60.1856347",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MOR ᴴᴰ"
+    },
+    "60:1856274": {
+      "epg_id": "strong.ph.60.1856274",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MYX ᴴᴰ"
+    },
+    "60:1856389": {
+      "epg_id": "strong.ph.60.1856389",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: MYX ᴴᴰ"
+    },
+    "60:1856351": {
+      "epg_id": "strong.ph.60.1856351",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NBA TV PHILIPNES ᴴᴰ"
+    },
+    "60:1856296": {
+      "epg_id": "strong.ph.60.1856296",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NHK JAPAN DR ᴴᴰ"
+    },
+    "60:1856305": {
+      "epg_id": "strong.ph.60.1856305",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NHK WORLD ᴴᴰ"
+    },
+    "60:1856410": {
+      "epg_id": "strong.ph.60.1856410",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NHK WORLD ᴴᴰ"
+    },
+    "60:1856307": {
+      "epg_id": "strong.ph.60.1856307",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NICK JR ᴴᴰ"
+    },
+    "60:1856425": {
+      "epg_id": "strong.ph.60.1856425",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NICK JR ᴴᴰ"
+    },
+    "60:1856281": {
+      "epg_id": "strong.ph.60.1856281",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NICKELODEON ᴴᴰ"
+    },
+    "60:1856388": {
+      "epg_id": "strong.ph.60.1856388",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: NICKELODEON ᴴᴰ"
+    },
+    "60:1856331": {
+      "epg_id": "strong.ph.60.1856331",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPATID ONLINE SD"
+    },
+    "60:1856329": {
+      "epg_id": "strong.ph.60.1856329",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BILYONARYO ᴴᴰ"
+    },
+    "60:1856330": {
+      "epg_id": "strong.ph.60.1856330",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BILYONARYO ᴴᴰ"
+    },
+    "60:1856387": {
+      "epg_id": "strong.ph.60.1856387",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE ᴴᴰ"
+    },
+    "60:1856384": {
+      "epg_id": "strong.ph.60.1856384",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: OUTDOOR CHANNEL ᴴᴰ"
+    },
+    "60:2122780": {
+      "epg_id": "strong.ph.60.2122780",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: GMA PINOY TV (NORTH AMERICA)"
+    },
+    "60:2122779": {
+      "epg_id": "strong.ph.60.2122779",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ONE NEWS HD"
+    },
+    "60:2122778": {
+      "epg_id": "strong.ph.60.2122778",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PTV4"
+    },
+    "60:2122777": {
+      "epg_id": "strong.ph.60.2122777",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPAMILY CHANNEL"
+    },
+    "60:2122776": {
+      "epg_id": "strong.ph.60.2122776",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: KAPAMILY CHANNEL"
+    },
+    "60:2122775": {
+      "epg_id": "strong.ph.60.2122775",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: BUKO CHANNEL"
+    },
+    "60:1856280": {
+      "epg_id": "strong.ph.60.1856280",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: OUTDOOR CHANNEL ᴴᴰ"
+    },
+    "60:1856279": {
+      "epg_id": "strong.ph.60.1856279",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PBO ᴴᴰ"
+    },
+    "60:1856383": {
+      "epg_id": "strong.ph.60.1856383",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PINOY BOX OFFICE (PBO) ᴴᴰ"
+    },
+    "60:1856275": {
+      "epg_id": "strong.ph.60.1856275",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PINOY BOX OFFICE ᴴᴰ"
+    },
+    "60:1856321": {
+      "epg_id": "strong.ph.60.1856321",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PREMIER SPORTS 2 ᴴᴰ"
+    },
+    "60:1856382": {
+      "epg_id": "strong.ph.60.1856382",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PTV 4 ᴴᴰ"
+    },
+    "60:1856327": {
+      "epg_id": "strong.ph.60.1856327",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: PTV4 ᴴᴰ"
+    },
+    "60:1856303": {
+      "epg_id": "strong.ph.60.1856303",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ROCK ACTION ᴴᴰ"
+    },
+    "60:1856418": {
+      "epg_id": "strong.ph.60.1856418",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ROCK ACTION ᴴᴰ"
+    },
+    "60:1856295": {
+      "epg_id": "strong.ph.60.1856295",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: ROCK ENTERTAINMENT ᴴᴰ"
+    },
+    "60:1856283": {
+      "epg_id": "strong.ph.60.1856283",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SALT & LIGHT TV ᴴᴰ"
+    },
+    "60:1856278": {
+      "epg_id": "strong.ph.60.1856278",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SARI SARI ᴴᴰ"
+    },
+    "60:1856380": {
+      "epg_id": "strong.ph.60.1856380",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SARI SARI ᴴᴰ"
+    },
+    "60:1856442": {
+      "epg_id": "strong.ph.60.1856442",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: SPOTV 2 ᴴᴰ"
+    },
+    "60:1856416": {
+      "epg_id": "strong.ph.60.1856416",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAGALOG MOVIE CHANNEL (TMC) ᴴᴰ"
+    },
+    "60:1856317": {
+      "epg_id": "strong.ph.60.1856317",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP ACTION FLIX ᴴᴰ"
+    },
+    "60:1856316": {
+      "epg_id": "strong.ph.60.1856316",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP EDGE CHANNEL ᴴᴰ"
+    },
+    "60:1856319": {
+      "epg_id": "strong.ph.60.1856319",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP MOVIES ᴴᴰ"
+    },
+    "60:1856428": {
+      "epg_id": "strong.ph.60.1856428",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP MOVIES ᴴᴰ"
+    },
+    "60:1856320": {
+      "epg_id": "strong.ph.60.1856320",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP SPORTS ᴴᴰ"
+    },
+    "60:1856430": {
+      "epg_id": "strong.ph.60.1856430",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP SPORTS ᴴᴰ"
+    },
+    "60:1856318": {
+      "epg_id": "strong.ph.60.1856318",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TAP TV ᴴᴰ"
+    },
+    "60:1856277": {
+      "epg_id": "strong.ph.60.1856277",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TECHSTORM ᴴᴰ"
+    },
+    "60:1856409": {
+      "epg_id": "strong.ph.60.1856409",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TELERADIO SERBISYO ᴴᴰ"
+    },
+    "60:1856300": {
+      "epg_id": "strong.ph.60.1856300",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TELERADYO SERBISYO ᴴᴰ"
+    },
+    "60:1856346": {
+      "epg_id": "strong.ph.60.1856346",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TELERADYO ᴴᴰ"
+    },
+    "60:1856379": {
+      "epg_id": "strong.ph.60.1856379",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC ASIA ᴴᴰ"
+    },
+    "60:1856340": {
+      "epg_id": "strong.ph.60.1856340",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC AUSTRALIA ᴴᴰ"
+    },
+    "60:1856343": {
+      "epg_id": "strong.ph.60.1856343",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC CANADA ᴴᴰ"
+    },
+    "60:1856341": {
+      "epg_id": "strong.ph.60.1856341",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC EAST ᴴᴰ"
+    },
+    "60:1856345": {
+      "epg_id": "strong.ph.60.1856345",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC NORTH AMERICA ᴴᴰ"
+    },
+    "60:1856342": {
+      "epg_id": "strong.ph.60.1856342",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC SD"
+    },
+    "60:1856276": {
+      "epg_id": "strong.ph.60.1856276",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TFC ᴴᴰ"
+    },
+    "60:1856381": {
+      "epg_id": "strong.ph.60.1856381",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: THRILL ᴴᴰ"
+    },
+    "60:1856308": {
+      "epg_id": "strong.ph.60.1856308",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TRAVEL CHANNEL ᴴᴰ"
+    },
+    "60:1856377": {
+      "epg_id": "strong.ph.60.1856377",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TRAVEL CHANNEL ᴴᴰ"
+    },
+    "60:1856372": {
+      "epg_id": "strong.ph.60.1856372",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TRUE FM TV ᴴᴰ"
+    },
+    "60:1856273": {
+      "epg_id": "strong.ph.60.1856273",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TRVL CHANNEL ᴴᴰ"
+    },
+    "60:1856440": {
+      "epg_id": "strong.ph.60.1856440",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TV MARIA ᴴᴰ"
+    },
+    "60:1856405": {
+      "epg_id": "strong.ph.60.1856405",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TVN MOVIES PINOY ᴴᴰ"
+    },
+    "60:1856417": {
+      "epg_id": "strong.ph.60.1856417",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TVN PREMIUM ᴴᴰ"
+    },
+    "60:1856290": {
+      "epg_id": "strong.ph.60.1856290",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: TVN ᴴᴰ"
+    },
+    "60:1856294": {
+      "epg_id": "strong.ph.60.1856294",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: UAAP VARSITY CH ᴴᴰ"
+    },
+    "60:1856374": {
+      "epg_id": "strong.ph.60.1856374",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: VIVA CINEMA ᴴᴰ"
+    },
+    "60:1856431": {
+      "epg_id": "strong.ph.60.1856431",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: WARNER ᴴᴰ"
+    },
+    "60:1856354": {
+      "epg_id": "strong.ph.60.1856354",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "PH: WIL TV ᴴᴰ"
+    },
+    "43:1320929": {
+      "epg_id": "strong.kr.43.1320929",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "####### SOUTH KOREA #######"
+    },
+    "43:1320928": {
+      "epg_id": "strong.kr.43.1320928",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: ARIRANG (NA)"
+    },
+    "43:1320927": {
+      "epg_id": "strong.kr.43.1320927",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: CTS (NA)"
+    },
+    "43:1320926": {
+      "epg_id": "strong.kr.43.1320926",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS (NA)"
+    },
+    "43:1320925": {
+      "epg_id": "strong.kr.43.1320925",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KBS WORLD (NA)"
+    },
+    "43:1320924": {
+      "epg_id": "strong.kr.43.1320924",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: MBC (NA)"
+    },
+    "43:1320923": {
+      "epg_id": "strong.kr.43.1320923",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: MBN (NA)"
+    },
+    "43:1320922": {
+      "epg_id": "strong.kr.43.1320922",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: NATGEO (NA)"
+    },
+    "43:1320921": {
+      "epg_id": "strong.kr.43.1320921",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: SBS (NA)"
+    },
+    "43:1320920": {
+      "epg_id": "strong.kr.43.1320920",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: SBS PLUS (NA)"
+    },
+    "43:1320919": {
+      "epg_id": "strong.kr.43.1320919",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: TAN (NA)"
+    },
+    "43:1320918": {
+      "epg_id": "strong.kr.43.1320918",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: TVN (NA)"
+    },
+    "43:1320917": {
+      "epg_id": "strong.kr.43.1320917",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: YTN  (NA)"
+    },
+    "43:1320916": {
+      "epg_id": "strong.kr.43.1320916",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: ARTE"
+    },
+    "43:1320915": {
+      "epg_id": "strong.kr.43.1320915",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: BBS TV"
+    },
+    "43:1320914": {
+      "epg_id": "strong.kr.43.1320914",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: CCHANNEL"
+    },
+    "43:1320913": {
+      "epg_id": "strong.kr.43.1320913",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: TVN SPORT"
+    },
+    "43:1320912": {
+      "epg_id": "strong.kr.43.1320912",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: CTS"
+    },
+    "43:1320911": {
+      "epg_id": "strong.kr.43.1320911",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS 2  HD"
+    },
+    "43:1320910": {
+      "epg_id": "strong.kr.43.1320910",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS E HD"
+    },
+    "43:1320909": {
+      "epg_id": "strong.kr.43.1320909",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS FM HD"
+    },
+    "43:1320908": {
+      "epg_id": "strong.kr.43.1320908",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS FM2 HD"
+    },
+    "43:1320907": {
+      "epg_id": "strong.kr.43.1320907",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS I HD"
+    },
+    "43:1320906": {
+      "epg_id": "strong.kr.43.1320906",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS KIDS  HD"
+    },
+    "43:1320905": {
+      "epg_id": "strong.kr.43.1320905",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS1  HD"
+    },
+    "43:1320904": {
+      "epg_id": "strong.kr.43.1320904",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EBS2  HD"
+    },
+    "43:1320903": {
+      "epg_id": "strong.kr.43.1320903",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: EDAILY TV"
+    },
+    "43:1320902": {
+      "epg_id": "strong.kr.43.1320902",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: FGTV"
+    },
+    "43:1320901": {
+      "epg_id": "strong.kr.43.1320901",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: GCN"
+    },
+    "43:1320900": {
+      "epg_id": "strong.kr.43.1320900",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: GOOD TV"
+    },
+    "43:1320899": {
+      "epg_id": "strong.kr.43.1320899",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: GS MY SHOP"
+    },
+    "43:1320898": {
+      "epg_id": "strong.kr.43.1320898",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: GS SHOP"
+    },
+    "43:1320897": {
+      "epg_id": "strong.kr.43.1320897",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: HOME & SHOPPING"
+    },
+    "43:1320896": {
+      "epg_id": "strong.kr.43.1320896",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: HYUNDAI HMALL"
+    },
+    "43:1320895": {
+      "epg_id": "strong.kr.43.1320895",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: IM SHOPPING"
+    },
+    "43:1320894": {
+      "epg_id": "strong.kr.43.1320894",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KBS1 TV"
+    },
+    "43:1320893": {
+      "epg_id": "strong.kr.43.1320893",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KBS2"
+    },
+    "43:1320892": {
+      "epg_id": "strong.kr.43.1320892",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KCTV  CH05"
+    },
+    "43:1320891": {
+      "epg_id": "strong.kr.43.1320891",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KCTV  CH07"
+    },
+    "43:1320890": {
+      "epg_id": "strong.kr.43.1320890",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KCTV  CH20"
+    },
+    "43:1320889": {
+      "epg_id": "strong.kr.43.1320889",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KCTV  CH21"
+    },
+    "43:1320888": {
+      "epg_id": "strong.kr.43.1320888",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KFN TV"
+    },
+    "43:1320887": {
+      "epg_id": "strong.kr.43.1320887",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: KTV"
+    },
+    "43:1320886": {
+      "epg_id": "strong.kr.43.1320886",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: LOTTE HOMESHOPPING"
+    },
+    "43:1320885": {
+      "epg_id": "strong.kr.43.1320885",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: M20 TV"
+    },
+    "43:1320884": {
+      "epg_id": "strong.kr.43.1320884",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: MBC SPORTS  TV"
+    },
+    "43:1320883": {
+      "epg_id": "strong.kr.43.1320883",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: MTN"
+    },
+    "43:1320882": {
+      "epg_id": "strong.kr.43.1320882",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: NS HOME SHOPPING"
+    },
+    "43:1320881": {
+      "epg_id": "strong.kr.43.1320881",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: OBS GYEONGIN TV"
+    },
+    "43:1320880": {
+      "epg_id": "strong.kr.43.1320880",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: OBS W"
+    },
+    "43:1320879": {
+      "epg_id": "strong.kr.43.1320879",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: OCN TV"
+    },
+    "43:1320878": {
+      "epg_id": "strong.kr.43.1320878",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: R TOMATO TV"
+    },
+    "43:1320877": {
+      "epg_id": "strong.kr.43.1320877",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: RUTC TV"
+    },
+    "43:1320876": {
+      "epg_id": "strong.kr.43.1320876",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "KR: YES TV"
+    },
+    "995:628433": {
+      "epg_id": "strong.jp.995.628433",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "##### JAPAN #####"
+    },
+    "995:1962400": {
+      "epg_id": "strong.jp.995.1962400",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: ABC (PRIMEHOME)"
+    },
+    "995:628430": {
+      "epg_id": "strong.jp.995.628430",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: AF UG NHK"
+    },
+    "995:1962339": {
+      "epg_id": "strong.jp.995.1962339",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: ANIMAX (PRIMEHOME)"
+    },
+    "995:1962345": {
+      "epg_id": "strong.jp.995.1962345",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS 10 STAR CHANNEL (PRIMEHOME)"
+    },
+    "995:1962353": {
+      "epg_id": "strong.jp.995.1962353",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS ASAHI (PRIMEHOME)"
+    },
+    "995:1962350": {
+      "epg_id": "strong.jp.995.1962350",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS FUJI (PRIMEHOME)"
+    },
+    "995:1962354": {
+      "epg_id": "strong.jp.995.1962354",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS NTV (PRIMEHOME)"
+    },
+    "995:1962352": {
+      "epg_id": "strong.jp.995.1962352",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS TBS (PRIMEHOME)"
+    },
+    "995:1962351": {
+      "epg_id": "strong.jp.995.1962351",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: BS TV TOKYO (PRIMEHOME)"
+    },
+    "995:1962335": {
+      "epg_id": "strong.jp.995.1962335",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: DISNEY CHANNEL (PRIMEHOME)"
+    },
+    "995:1962336": {
+      "epg_id": "strong.jp.995.1962336",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: FISHING VISION (PRIMEHOME)"
+    },
+    "995:1962420": {
+      "epg_id": "strong.jp.995.1962420",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: FUJI TV (PRIMEHOME)"
+    },
+    "995:1962428": {
+      "epg_id": "strong.jp.995.1962428",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: FUJI TV HD (PRIMEHOME)"
+    },
+    "995:1962340": {
+      "epg_id": "strong.jp.995.1962340",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: GREEN CHANNEL (PRIMEHOME)"
+    },
+    "995:628432": {
+      "epg_id": "strong.jp.995.628432",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: ID NHK WORLD JAPAN"
+    },
+    "995:1962334": {
+      "epg_id": "strong.jp.995.1962334",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: JCOM BS (PRIMEHOME)"
+    },
+    "995:1962344": {
+      "epg_id": "strong.jp.995.1962344",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: JS SPORT 1 (PRIMEHOME)"
+    },
+    "995:1962343": {
+      "epg_id": "strong.jp.995.1962343",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: JS SPORT 2 (PRIMEHOME)"
+    },
+    "995:1962342": {
+      "epg_id": "strong.jp.995.1962342",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: JS SPORT 3 (PRIMEHOME)"
+    },
+    "995:1962341": {
+      "epg_id": "strong.jp.995.1962341",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: JS SPORT 4 (PRIMEHOME)"
+    },
+    "995:1962399": {
+      "epg_id": "strong.jp.995.1962399",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: KANSAI TV (PRIMEHOME)"
+    },
+    "995:1962401": {
+      "epg_id": "strong.jp.995.1962401",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: MBS (PRIMEHOME)"
+    },
+    "995:1962355": {
+      "epg_id": "strong.jp.995.1962355",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK BS (PRIMEHOME)"
+    },
+    "995:1962349": {
+      "epg_id": "strong.jp.995.1962349",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK BS4K (PRIMEHOME)"
+    },
+    "995:1962423": {
+      "epg_id": "strong.jp.995.1962423",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK E (PRIMEHOME)"
+    },
+    "995:1962431": {
+      "epg_id": "strong.jp.995.1962431",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK E HD (PRIMEHOME)"
+    },
+    "995:1962424": {
+      "epg_id": "strong.jp.995.1962424",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK G (PRIMEHOME)"
+    },
+    "995:1962432": {
+      "epg_id": "strong.jp.995.1962432",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK G HD (PRIMEHOME)"
+    },
+    "995:1962402": {
+      "epg_id": "strong.jp.995.1962402",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NHK G OSAKA (PRIMEHOME)"
+    },
+    "995:1962338": {
+      "epg_id": "strong.jp.995.1962338",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NIHON EIGA SENMON (PRIMEHOME)"
+    },
+    "995:1962422": {
+      "epg_id": "strong.jp.995.1962422",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NTV (PRIMEHOME)"
+    },
+    "995:1962430": {
+      "epg_id": "strong.jp.995.1962430",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: NTV HD (PRIMEHOME)"
+    },
+    "995:1962337": {
+      "epg_id": "strong.jp.995.1962337",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: SKY A (PRIMEHOME)"
+    },
+    "995:1962396": {
+      "epg_id": "strong.jp.995.1962396",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: SUN (PRIMEHOME)"
+    },
+    "995:1962421": {
+      "epg_id": "strong.jp.995.1962421",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TBS (PRIMEHOME)"
+    },
+    "995:1962429": {
+      "epg_id": "strong.jp.995.1962429",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TBS HD (PRIMEHOME)"
+    },
+    "995:1962417": {
+      "epg_id": "strong.jp.995.1962417",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TOKYO MX1 (PRIMEHOME)"
+    },
+    "995:1962425": {
+      "epg_id": "strong.jp.995.1962425",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TOKYO MX1 HD (PRIMEHOME)"
+    },
+    "995:1962419": {
+      "epg_id": "strong.jp.995.1962419",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TV ASAHI (PRIMEHOME)"
+    },
+    "995:1962427": {
+      "epg_id": "strong.jp.995.1962427",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TV ASAHI HD (PRIMEHOME)"
+    },
+    "995:1962397": {
+      "epg_id": "strong.jp.995.1962397",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TV OSAKA (PRIMEHOME)"
+    },
+    "995:1962418": {
+      "epg_id": "strong.jp.995.1962418",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TV TOKYO (PRIMEHOME)"
+    },
+    "995:1962426": {
+      "epg_id": "strong.jp.995.1962426",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: TV TOKYO HD (PRIMEHOME)"
+    },
+    "995:1962347": {
+      "epg_id": "strong.jp.995.1962347",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: WOWOW CINEMA (PRIMEHOME)"
+    },
+    "995:1962346": {
+      "epg_id": "strong.jp.995.1962346",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: WOWOW LIVE (PRIMEHOME)"
+    },
+    "995:1962348": {
+      "epg_id": "strong.jp.995.1962348",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: WOWOW PRIME (PRIMEHOME)"
+    },
+    "995:1962398": {
+      "epg_id": "strong.jp.995.1962398",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: YTV (PRIMEHOME)"
+    },
+    "995:628429": {
+      "epg_id": "strong.jp.995.628429",
+      "status": "DUMMY_NO_UNAMBIGUOUS_EXACT_MATCH",
+      "channel_name": "JP: ID NHK WORLD PREMIUM"
+    }
+  }
+}
